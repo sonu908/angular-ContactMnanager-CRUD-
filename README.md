@@ -4,19 +4,19 @@ Contact Manager CRUD App
 This web application is built using Angular and allows you to create, read, update, and delete your contacts.
 
 Features
-✅ Create new contacts
-✅ View all contacts
-✅ Update contact information
-✅ Delete contacts
+✅ Create new contacts <br>
+✅ View all contacts <br>
+✅ Update contact information <br>
+✅ Delete contacts <br>
 
-Technologies Used
+Technologies Used <br>
 🔧 Angular
 🔧 Bootstrap
 🔧 HTML
 🔧 CSS
 
 Installation
-Clone the repository: git clone https://github.com/your-username/contact-manager.git
+Clone the repository: git clone (https://github.com/sonu908/angular-ContactMnanager-CRUD-.git)
 Install dependencies: npm install
 Run the app: ng serve
 How to Use
